@@ -1,0 +1,117 @@
+
+
+body{
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'IBM Plex Serif', serif;
+}
+.header-0{
+    margin: 20vh;
+    margin-top: 30px;
+    display: flex;
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 2px;
+}
+.header-1{
+    margin-top: 5%;
+    width: 25%;
+    padding-left: 15%;
+    justify-content: center;
+}
+.link-0{
+    text-decoration: none;
+    background-color:goldenrod;
+    color:black;
+    font-weight: 700;
+    padding: 10px 40px;
+}
+.header-2{
+    padding: 10%;
+    width: 100vh;
+    height: 37vh;
+}
+main{
+    display: flex;
+    margin-right: 110px;
+}
+
+.main-0{
+    background-color: #73AD21;
+     color:black;
+    margin-left: 110px;
+     display: grid;
+     grid-template-rows: repeat(3,1fr);
+     row-gap: 10px;
+     border-radius: 5px;
+     padding: 20px;   
+}
+.link-1{
+    text-decoration: none;
+    background-color:midnightblue;
+    color:black;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+#line-0{
+    background-color:sienna ;
+}
+
+.blog-0{
+    display: grid;
+    grid-template-rows: 60px,100px,200px,60px;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+    padding: 0%;
+    margin-left: 30px;
+    margin-right: 20vh;
+    margin-bottom: 50px;
+}
+.blog-1{
+    border: 1px solid;
+    border-radius: 15px;
+    align-content: center ;
+}
+.link-2{
+    text-decoration: none;
+    background-color: whitesmoke;
+    color:black;
+    font-weight: 700;
+    padding: 10px 40px; 
+    border-radius: 5px;
+    margin-top: 50vh;
+}
+.icons-0{
+    font-size: 24px;
+    background-color: blueviolet;
+}
+footer{
+    width: 100%;
+    position: absolute;
+    color: beige;
+    background-color: black;
+    padding:100px 0 30px ;
+    font-size: 33px;
+    line-height: 40px;
+    border-radius: 20px;
+}
+.endsiad-0{
+    width: 170vh;
+    margin: 10%;
+    text-align: center;
+    
+}
+.endsiad-1{
+    display: flex;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 0 15px;
+}
+.para-0{
+    padding: 30px;
+}
+    
+
+
+
+    
